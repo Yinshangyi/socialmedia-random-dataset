@@ -1,3 +1,5 @@
+<img width="80%" src="img/readme-img.png"/>
+
 # Sample basic social media dataset
 This repository is here for people who needs random social media data for some data manipulation, experimentation and data analysis.
 This dataset is made of 6 CSV files (6 tables).
